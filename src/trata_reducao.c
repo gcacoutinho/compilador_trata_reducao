@@ -24,12 +24,14 @@ void trataReducao()
 			break;
 		case r6:
 			pop(1);
+			push(d[0]);
 			break;
 		case r7:
 			pop(3);
 			break;
 		case r8:
 			pop(1);
+			push(d[0]);
 			break;
 		case r9:
 			pop(3);
