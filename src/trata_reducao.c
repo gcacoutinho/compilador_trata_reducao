@@ -13,6 +13,7 @@ void trataReducao()
 		case r2:
 			pop(3);
 			d[1].atributo = incluiTabSimb(d[1], Variavel);
+			d[0].estado = tabEstado[estado][E];
 			gera(STO, d[3].atributo, d[1].atributo);
 			break;
 		case r3:
