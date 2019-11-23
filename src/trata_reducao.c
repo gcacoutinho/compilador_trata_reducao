@@ -1,3 +1,5 @@
+//trocar d[numeor] por unidPilhaDePop[MAXUNIDPILHA]
+//https://github.com/CarolCarvalhosa/pilha-compiladores-2019/blob/master/pilha.c
 void trataReducao()
 {
 	switch (tabEstado[estado][token])
