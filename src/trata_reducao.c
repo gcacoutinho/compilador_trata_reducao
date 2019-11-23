@@ -19,9 +19,15 @@ void trataReducao()
 		case r3:
 			// IF
 			pop(10);
+			remenda();
+			remenda();
+			remenda();
+			remenda();
 			break;
 		case r4:
 			// While
+			gera (J, d[2].indiceQuadrupla, NADA, NADA);
+			remenda(d[4].indiceQuadr, JF, d[3].indiceSimb, prox, NADA);
 			pop(8);
 			break;
 		case r5:
