@@ -1,3 +1,14 @@
+/* #Start Application
+  _       _         _ _                
+ | |     | |       | (_)               
+ | |_   _| | __ _  | |___   ___ __ ___ 
+ | | | | | |/ _` | | | \ \ / / '__/ _ \
+ | | |_| | | (_| | | | |\ V /| | |  __/
+ |_|\__,_|_|\__,_| |_|_| \_/ |_|  \___|
+                                      
+ 	 Certô miserávi                                 
+*/
+
 void _pop(int n ){
 	for(int ii = n; ii > 0; ii--){
 		unidPilhaDePop[ii] = pop()
